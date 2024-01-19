@@ -1,4 +1,8 @@
 This is test file
 This is second line added in GitHub
 This is third line
+<<<<<<< HEAD
 Added 4'th line
+=======
+This is 5th line
+>>>>>>> 494dacf (TEST)
